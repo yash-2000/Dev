@@ -14,6 +14,47 @@ video {
     height: 100%;
     width: 100%;
 }
+.video-filter{
+
+position: absolute;
+
+top: 21vh;
+
+left: 10.5vh;
+
+z-index: 3;
+}
+.one{
+
+}
+.two{
+
+}
+.three{
+
+}
+.four{
+
+}
+.five{
+
+}
+.filter{
+
+height: 10vh;
+
+width: 6vw;
+
+background: wheat;
+
+border-bottom: .1px solid;
+
+background-image: url("https://images.pexels.com/photos/1179863/pexels-photo-1179863.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+
+background-size: cover;
+
+background-blend-mode: soft-light;
+}
 
 .controls {
     position: absolute;
@@ -26,6 +67,7 @@ video {
     justify-content: space-evenly;
     width: 160px;
     align-items: center;
+    z-index: 3;
 }
 
 .controls>div {
@@ -58,6 +100,16 @@ video {
     width: 70%;
     background: white;
     border-radius: 50%;
+}
+.filter-div{
+    
+position: absolute;
+    
+top: 0px;
+    
+height: 100vh;
+    
+width: 100vw;
 }
 
 
