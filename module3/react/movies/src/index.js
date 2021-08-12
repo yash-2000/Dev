@@ -1,4 +1,4 @@
-i// Libraries
+// Libraries
 
 import React from "react"; // creation logic
 
