@@ -3,7 +3,7 @@ import React from "react";
 class Child extends React.Component {
   constructor(props) {
     super(props);
-    console.log("constructor was called");
+    console.log("constructor was a called");
     this.state = {
       on: false,
     };
