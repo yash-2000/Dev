@@ -1,5 +1,5 @@
 {
-  "name": "dev_pp_11",
+  "name": "dev",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yash-2000/dev_pp_11.git"
+    "url": "git+https://github.com/yash-2000/dev.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yash-2000/dev_pp_11/issues"
+    "url": "https://github.com/yash-2000/dev/issues"
   },
-  "homepage": "https://github.com/yash-2000/dev_pp_11#readme",
+  "homepage": "https://github.com/yash-2000/dev#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.6",
     "puppeteer": "^9.1.1",
